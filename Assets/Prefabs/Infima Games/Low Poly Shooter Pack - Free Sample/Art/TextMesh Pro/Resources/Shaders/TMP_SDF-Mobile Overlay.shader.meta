@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a02a7d8c237544f1962732b55a9aebf1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201095
+  packageName: Automotive HMI Template
+  packageVersion: 1.4
+  assetPath: Assets/Prefabs/Infima Games/Low Poly Shooter Pack - Free Sample/Art/TextMesh
+    Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+  uploadId: 793590
